@@ -1,0 +1,100 @@
+@import url('https://fonts.googleapis.com/css2?family=Bitter:wght@900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=KoHo&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Titillium+Web&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+
+.container {
+    width: auto;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.header {
+    width: auto;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+.img_set {
+    width: auto;
+  
+}
+
+.h_img {
+    width: 179px;
+    height: 100px;
+}
+
+h1 {
+    text-align: center;
+    font-family: bitter;
+    color: darkblue;
+    font-size: 50px;
+}
+
+h2 {
+    font-family: bitter;
+    font-size: 30px;
+}
+
+td {
+    width: 240px;
+    height: 40px;
+    text-align: center;
+    font-size: 19px;
+    font-family: koho;
+    font-weight: 1000;
+    background-color: #FFFDE7;
+}
+
+.menu {
+    width: auto;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.c_img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+p {
+    width: auto;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: justify;
+    font-family: koho;
+    font-size: 17px;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+.f_img {
+    width: 150px;
+    height: 90px;
+}
+
+.footer {
+    width: auto;
+    background-color: #FFFDE7;
+}
+
+.f_table {
+    width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+a {
+    color: dodgerblue;
+    font-family: titillium web;
+}
+
+a:hover {
+    color: red;
+}
